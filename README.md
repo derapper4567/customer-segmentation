@@ -1,5 +1,7 @@
 
 Customer Segmentation Project for beginner
+
+
 Overview
 This project aims to implement customer segmentation using [K-Means clustering] to group customers based on their behavior and characteristics. The segmentation can enable targeted marketing strategies, personalized recommendations, and improved customer experience.
 
